@@ -3,7 +3,7 @@ Time is important to an entrepreneur! Which is why BIT's very own Business Men a
 
 > *"Keep going. No matter what." - Reginald Lewis*
 
-## Financial
+### Financial
 Accounting
 - Wave - waveapps.com
 - Calulate Your Rate - http://www.yourrate.co/
@@ -20,10 +20,14 @@ Services
 - Legal Zoom - https://www.legalzoom.com/  
 
 Documents
-- https://legaltemplates.net/
-  
+- legaltemplates - https://legaltemplates.net/
+
+### Funding
+- gofundme - https://www.gofundme.com/
+- kickstarter - https://www.kickstarter.com/
+
 ### Organization
-Proposal 
+Proposal
 - BidSketch - http://www.bidsketch.com/
 
 ### Promotional/Advertisment
@@ -37,6 +41,7 @@ Online Promotion
 - Craiglist - https://www.craigslist.org
 - Working Nomad - http://www.workingnomads.co/
 - Get A Coder - http://www.getacoder.com/
+- Fiverr - https://www.fiverr.com/
 
 ### Books/Readings/Videos
 - DO IT! - https://youtu.be/ZXsQAXx_ao0
