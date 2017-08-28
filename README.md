@@ -5,43 +5,48 @@ Time is important to an entrepreneur! Which is why BIT's very own Business Men a
 
 ### Financial
 Accounting
-- Wave - waveapps.com
 - Calulate Your Rate - http://www.yourrate.co/
+- Wave - http://www.waveapps.com/
 
 Payment Systems
+- Paypal - http://paypal.com/
 - Square - https://squareup.com/
 - Stripe - https://stripe.com/
-- Paypal - http://paypal.com/
-
 
 ### Legal
 Services
 - Rocket Lawyer - https://www.rocketlawyer.com/
-- Legal Zoom - https://www.legalzoom.com/  
+- Legal Zoom - https://www.legalzoom.com/
 
 Documents
-- legaltemplates - https://legaltemplates.net/
+- Legal Templates - https://legaltemplates.net/
 
 ### Funding
-- gofundme - https://www.gofundme.com/
-- kickstarter - https://www.kickstarter.com/
+- GoFundMe - https://www.gofundme.com/
+- Kick Starter - https://www.kickstarter.com/
 
 ### Organization
 Proposal
 - BidSketch - http://www.bidsketch.com/
+- Bonsai - https://www.hellobonsai.com/
+
+Employee Scheduling
+- When I Work - http://wheniwork.com/
 
 ### Promotional/Advertisment
 Online Promotion
 - HootSuite - https://hootsuite.com/
-- SumoMe - https://sumome.com/
 - MailChimp - http://www.mailchimp.com/
+- SumoMe - https://sumome.com/
 
 ### Opportunities (Good for find work and finding workers)
-- Freelancer.com - https://www.freelancer.com
-- Craiglist - https://www.craigslist.org
-- Working Nomad - http://www.workingnomads.co/
-- Get A Coder - http://www.getacoder.com/
+- Craiglist - https://www.craigslist.org/
 - Fiverr - https://www.fiverr.com/
+- Freelancer.com - https://www.freelancer.com/
+- Get A Coder - http://www.getacoder.com/
+- Indeed - https://www.indeed.com/
+- UpWork - https://www.upwork.com/
+- Working Nomad - http://www.workingnomads.co/
 
 ### Books/Readings/Videos
 - DO IT! - https://youtu.be/ZXsQAXx_ao0
