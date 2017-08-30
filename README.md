@@ -41,8 +41,11 @@ Employee Scheduling
 ### Promotional/Advertisment
 Online Promotion
 - HootSuite - https://hootsuite.com/
-- MailChimp - http://www.mailchimp.com/
 - SumoMe - https://sumome.com/
+
+Mail Services
+- MailChimp - http://www.mailchimp.com/
+- Mailgun - https://www.mailgun.com/
 
 ### Opportunities (Good for find work and finding workers)
 - Craiglist - https://www.craigslist.org/
@@ -55,3 +58,8 @@ Online Promotion
 
 ### Books/Readings/Videos
 - DO IT! - https://youtu.be/ZXsQAXx_ao0
+
+### Web Hosting
+- AWS Application Hosting - https://aws.amazon.com/websites/
+- Google App Engine - https://cloud.google.com/appengine
+- Heroku - https://www.heroku.com/
