@@ -23,7 +23,7 @@ Documents
 - Legal Templates - https://legaltemplates.net/
 
 ### Data Collection
-- Woofuu - https://www.wufoo.com/
+- Wufoo - https://www.wufoo.com/
 - G Suite (Forms) - https://gsuite.google.com/products/forms/
 
 ### Funding
