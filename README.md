@@ -12,6 +12,7 @@ Payment Systems
 - Paypal - http://paypal.com/
 - Square - https://squareup.com/
 - Stripe - https://stripe.com/
+- Chargify - https://www.chargify.com/
 
 ### Legal
 Services
@@ -20,6 +21,10 @@ Services
 
 Documents
 - Legal Templates - https://legaltemplates.net/
+
+### Data Collection
+- Woofuu - https://www.wufoo.com/
+- G Suite (Forms) - https://gsuite.google.com/products/forms/
 
 ### Funding
 - GoFundMe - https://www.gofundme.com/
