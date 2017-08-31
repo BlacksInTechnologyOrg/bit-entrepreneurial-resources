@@ -12,6 +12,7 @@ Payment Systems
 - Paypal - http://paypal.com/
 - Square - https://squareup.com/
 - Stripe - https://stripe.com/
+- Chargify - https://www.chargify.com/
 
 ### Legal
 Services
@@ -20,6 +21,10 @@ Services
 
 Documents
 - Legal Templates - https://legaltemplates.net/
+
+### Data Collection
+- Wufoo - https://www.wufoo.com/
+- G Suite (Forms) - https://gsuite.google.com/products/forms/
 
 ### Funding
 - GoFundMe - https://www.gofundme.com/
@@ -36,8 +41,11 @@ Employee Scheduling
 ### Promotional/Advertisment
 Online Promotion
 - HootSuite - https://hootsuite.com/
-- MailChimp - http://www.mailchimp.com/
 - SumoMe - https://sumome.com/
+
+Mail Services
+- MailChimp - http://www.mailchimp.com/
+- Mailgun - https://www.mailgun.com/
 
 ### Opportunities (Good for find work and finding workers)
 - Craiglist - https://www.craigslist.org/
@@ -50,3 +58,8 @@ Online Promotion
 
 ### Books/Readings/Videos
 - DO IT! - https://youtu.be/ZXsQAXx_ao0
+
+### Web Hosting
+- AWS Application Hosting - https://aws.amazon.com/websites/
+- Google App Engine - https://cloud.google.com/appengine
+- Heroku - https://www.heroku.com/
