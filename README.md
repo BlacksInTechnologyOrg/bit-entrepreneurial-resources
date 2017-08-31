@@ -58,6 +58,7 @@ Mail Services
 
 ### Books/Readings/Videos
 - DO IT! - https://youtu.be/ZXsQAXx_ao0
+- Entrepreneurship in The 21st Century - http://futurethinkers.org/david-orban-entrepreneurship/
 
 ### Web Hosting
 - AWS Application Hosting - https://aws.amazon.com/websites/
